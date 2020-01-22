@@ -16,4 +16,5 @@ It also supports [**Joystick n Sliders**](https://aescripts.com/joysticks-n-slid
 - [ ] Create an Extention for after effect to generate LumberJack animation format.
 - [ ] Create Some rules to have a better experience to create LumberJack animations
 - [ ] Create face detection to detect face and bind an animation to it.
+- [ ] Create a Mechanistm which smoothly set the update on animation (remove jitter on realtime detect)
 - [ ] Create a KeyFrames in android to create some animation from lottie files.
