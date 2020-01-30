@@ -1,5 +1,5 @@
-# LumberJack
-LumberJack is a Library powered by Lottie for android platform (soon in other platforms) that let you have interactive lottie animation which imported from Adobe AfterEffect 
+# Morood
+Morood is a Library powered by Lottie for android platform (soon in other platforms) that let you have interactive lottie animation which imported from Adobe AfterEffect 
 
 ![Dots Look to Drags](https://github.com/amirghm/LumberJack/blob/master/dots-look-to-drags.gif)
 
