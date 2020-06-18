@@ -10,7 +10,7 @@ It also supports [**Joystick n Sliders**](https://aescripts.com/joysticks-n-slid
 # Todo
 - [x] Setup a sample project which has an Interactive animation ( follow the touch)
 - [x] Create a sample project which detec the face and follow the eyes
-- [ ] Write a Player for Animations
+- [ ] Write a Player for Animations (Work In progress)
 - [ ] Create a Rich character with Joystick n Sliders (Original LumberJack)
 - [ ] Create some interaction function to edit animation
 - [ ] Generate Native Joysticks and sliders from Josystick built in the animation
