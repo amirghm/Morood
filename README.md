@@ -1,5 +1,5 @@
-# LumberJack
-LumberJack is a Library powered by Lottie for android platform (soon in other platforms) that let you have interactive lottie animation which imported from Adobe AfterEffect 
+# Morood
+Morood is a Library powered by Lottie for android platform (soon in other platforms) that let you have interactive lottie animation which imported from Adobe AfterEffect 
 
 ![Dots Look to Drags](https://github.com/amirghm/LumberJack/blob/master/dots-look-to-drags.gif)
 
@@ -14,8 +14,8 @@ It also supports [**Joystick n Sliders**](https://aescripts.com/joysticks-n-slid
 - [ ] Create a Rich character with Joystick n Sliders (Original LumberJack)
 - [ ] Create some interaction function to edit animation
 - [ ] Generate Native Joysticks and sliders from Josystick built in the animation
-- [ ] Create an Extention for after effect to generate LumberJack animation format.
-- [ ] Create Some rules to have a better experience to create LumberJack animations
+- [ ] Create an Extention for after effect to generate Morood animation format.
+- [ ] Create Some rules to have a better experience to create Morood animations
 - [ ] Create face detection to detect face and bind an animation to it.
 - [ ] Create a Mechanistm which smoothly set the update on animation (remove jitter on realtime detect)
 - [ ] Create a KeyFrames in android to create some animation from lottie files.
